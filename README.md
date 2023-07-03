@@ -4,6 +4,8 @@
 <img src="https://github.com/nik-ashely/nik-ashely/assets/64537810/503cdc5c-2075-4b38-9ac6-3f950272ee32" alt = "me on the Uffizi Gallery terrace, in Florence (Italy)" align="centre" width="250" height="310">
 </p>
 
+<br/>
+
 _Small_ description of myself -- coming soon
 
 - 👀 I’m interested in everything (feed me _knowledge_)
