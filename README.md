@@ -9,8 +9,7 @@ _Small_ description of myself -- coming soon
 - 👀 I’m interested in everything (feed me _knowledge_)
 - 🌱 I’m currently learning ML & AI
 <!--- visibility="hidden">💞️ I’m looking to collaborate on...--->
-- 📫 How to reach me... (don't)
-- but if you _really_ wanna reach me... find a way!
+- 📫 How to reach me...
 <a href="https://github.com/nik-ashely" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -19,8 +18,9 @@ _Small_ description of myself -- coming soon
 </a>
 <a href="https://instagram.com/miniops97" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a> 
+</a>
 
+---
 <!---
 nik-ashely/nik-ashely is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
