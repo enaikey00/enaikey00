@@ -12,4 +12,4 @@ This folder contains code written in another language, for those who have minds 
 
 
 ## CV
-link
+[cv](CV\Nov23.pdf)
