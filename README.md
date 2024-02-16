@@ -20,7 +20,7 @@ You know, bees probably don't care about being curious, they just are. Be a bee 
 
 _Something_ else about me:
 ---
-I like reading books and magazines (ex. wired or mind), playing the piano and guitar (Elton John, The Beatles, Queen, U2, Pink Floyd, ...). I'm interested in the finance world, compount interest, all-weather strategy, the butterfly portfolio; gardening is something i've always been doing without proper know-how (but quite good results); I take notes on podcasts and videos (check out this: [blackbox](https://choramedia.com/podcast/black-box/); C.R. Zafón is one of my all-time favorite novelists. I need different "fuels" to run properly. Meditation is good, try it ;)
+I like reading books and magazines (ex. wired or mind), playing the piano and guitar (Elton John, The Beatles, Queen, U2, Pink Floyd, ...). I'm interested in the finance world, compound interest, all-weather strategy, the butterfly portfolio; gardening is something i've always been doing without proper know-how (but quite good results); I take notes on podcasts and videos (check out this: [blackbox](https://choramedia.com/podcast/black-box/); C.R. Zafón is one of my all-time favorite novelists. I need different "fuels" to run properly. Meditation is good, try it ;)
 
 ---
 
