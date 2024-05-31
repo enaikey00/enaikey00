@@ -50,3 +50,15 @@ Here's some lines for you, my fellow sailor of the www!
 [The Gig Economy -- Zero HP Lovecraft](https://zerohplovecraft.substack.com/p/the-gig-economy)
 
 2. The sad thing about artificial intelligence is that it lacks artifice and therefore intelligence. (Jean Baudrillard)
+
+
+## GitHub Stats
+  
+<p ><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enaikey00&hide=html,java&show_icons=true&locale=en&layout=compact&count_private=true&theme=radical" alt="enaikey00" width="49%"/>
+</p>
+
+<p style="display:inline-block; margin:0;">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=enaikey00&show_icons=true&theme=tokyonight" alt="enaikey00" width="49%"/></p>
+
+<p align="left">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=enaikey00&theme=tokyonight" alt="Profile Details" width="100%"/>
+</p>
